@@ -127,7 +127,7 @@ const LandingPage = ({ onSelectMode }: { onSelectMode: (mode: AppMode) => void }
     {/* Feature Cards */}
     <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-6xl px-4">
         <FeatureCard 
-            title="Nano Editor" 
+            title="AI Editor" 
             desc="Edit and combine images with simple text prompts."
             icon={
                 <svg className="w-8 h-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">

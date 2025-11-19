@@ -129,7 +129,7 @@ const ImageEditor: React.FC = () => {
     <div className="flex flex-col items-center w-full animate-in fade-in slide-in-from-bottom-4 duration-700">
         <div className="text-center mb-10">
             <h2 className="text-4xl font-bold mb-2">
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-fuchsia-400 to-pink-400">Nano Banana</span> Editor
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-fuchsia-400 to-pink-400">AI</span> Editor
             </h2>
             <p className="text-slate-400">Transform reality with a simple text prompt.</p>
         </div>
